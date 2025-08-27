@@ -40,25 +40,25 @@ The repository includes three main SQL scripts:
 ________________________________________
 #### Key Queries & Analysis
 The repository includes the following queries with explanations:
-1.  List all orders that include an 'XL' pizza
+1. List all orders that include an 'XL' pizza. 
 Retrieves order IDs for all orders containing XL pizzas.
-2.	Total number of pizzas sold in each pizza category
+2. Total number of pizzas sold in each pizza category.
 Aggregates quantities per category to show which category sold the most.
-3.	Category with the highest-selling pizza size
+3. Category with the highest-selling pizza size.
 Finds the most popular pizza size within all categories based on quantity sold.
-4.	Hourly breakdown of total pizzas sold
+4. Hourly breakdown of total pizzas sold.
 Summarizes pizza sales by hour to identify peak sales times.
-5.	Daily revenue per order_date
+5. Daily revenue per order_date.
 Calculates total revenue generated each day.
-6.	Average number of pizzas ordered per day
+6. Average number of pizzas ordered per day.
 Computes the mean daily pizza sales.
-7.	Top 3 categories by total sales value
+7. Top 3 categories by total sales value.
 Identifies pizza categories generating the highest revenue.
-8.	Top 3 most ordered pizza types by revenue per category
+8. Top 3 most ordered pizza types by revenue per category.
 Ranks pizza types by revenue within each category.
-9.	Percentage contribution of each pizza type to total revenue
+9.	Percentage contribution of each pizza type to total revenue.
 Shows how much each pizza type contributes to overall sales.
-10.	Most expensive pizza
+10.	Most expensive pizza.
 Retrieves the name and price of the costliest pizza.
 ________________________________________
 ##### Insights & Findings
