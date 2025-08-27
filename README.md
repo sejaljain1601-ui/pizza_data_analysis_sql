@@ -59,7 +59,7 @@ Ranks pizza types by revenue within each category.
 9.	Percentage contribution of each pizza type to total revenue.
 Shows how much each pizza type contributes to overall sales.
 10.	Most expensive pizza.
-Retrieves the name and price of the costliest pizza.
+Retrieves the name and price of the costliest pizza. 
 ________________________________________
 ##### Insights & Findings
 •	Peak Hours: Highest pizza sales occur during 12 PM–1 PM (lunch) and 5 PM–6 PM (dinner). Morning (9–10 AM) and late night (10–11 PM) have minimal sales.
