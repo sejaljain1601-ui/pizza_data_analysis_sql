@@ -32,7 +32,7 @@ Relationships:
 •	Each order can have multiple pizzas.
 •	Each pizza can appear in multiple orders.
 ________________________________________
-### SQL Scripts
+## SQL Scripts
 The repository includes three main SQL scripts:
 
 •	01_create_database.sql – Creates the Pizza Mania database
@@ -41,7 +41,7 @@ The repository includes three main SQL scripts:
 
 •	03_queries.sql – Contains all 10 analysis queries 
 ________________________________________
-#### Key Queries & Analysis
+## Key Queries & Analysis
 The repository includes the following queries with explanations:
 1. List all orders that include an 'XL' pizza - Retrieves order IDs for all orders containing XL pizzas.
 
@@ -63,7 +63,7 @@ The repository includes the following queries with explanations:
   
 10. Most expensive pizza - Retrieves the name and price of the costliest pizza. 
 ________________________________________
-##### Insights & Findings
+## Insights & Findings
 •	Peak Hours: Highest pizza sales occur during 12 PM–1 PM (lunch) and 5 PM–6 PM (dinner). Morning (9–10 AM) and late night (10–11 PM) have minimal sales.
 
 •	Top-Selling Pizza by Quantity: Classic pizza leads in total units sold (14,888), followed by Supreme, Veggie, and Chicken categories.
@@ -75,7 +75,7 @@ overall bring in the most revenue per category.
 
 •	Most Expensive Pizza: The Greek Pizza at 35.95 is the priciest, useful for premium pricing strategies or upselling opportunities.
 ________________________________________
-###### Repository Structure
+## Repository Structure
 Pizza_Data_Analysis_SQL/
 
 ├── create_database.sql       # Script to create the database
