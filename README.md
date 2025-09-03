@@ -55,15 +55,25 @@ The repository includes the following queries with explanations:
     
 ---
 ## Insights & Findings
-**•	Peak Hours:** Highest pizza sales occur during 12 PM–1 PM (lunch) and 5 PM–6 PM (dinner). Morning (9–10 AM) and late night (10–11 PM) have minimal sales.
+- **Peak Hours – 12 PM–1 PM & 5 PM–6 PM**  
+  Highest pizza sales occur during lunch and dinner hours.  
+  → Indicates strong demand during meal times, while mornings and late nights remain underperforming.  
 
-**•	Top-Selling Pizza by Quantity:** Classic pizza leads in total units sold (14,888), followed by Supreme, Veggie, and Chicken categories.
+- **Top-Selling Pizza – Classic Pizza (14,888 units)**  
+  Classic pizzas dominate sales volume, followed by Supreme, Veggie, and Chicken.  
+  → Suggests customer preference for traditional flavors as a stable revenue driver.  
 
-**•	Top Revenue-Generating Pizzas:** Thai Chicken Pizza generates the highest revenue (43,434.25), followed closely by Barbecue and California Chicken Pizzas. Chicken pizzas overall bring in the most revenue per category.
+- **Top Revenue Generator – Thai Chicken Pizza (43,434.25)**  
+  Thai Chicken leads revenue, with Barbecue and California Chicken close behind.  
+  → Chicken pizzas overall generate the most revenue, showing higher willingness to pay for premium toppings.  
 
-**•	Balanced Performance Across Categories:** Classic pizzas dominate in quantity, Chicken pizzas dominate in revenue, and Supreme & Veggie pizzas maintain moderate sales, showing a well-rounded menu.
+- **Category Balance – Classic vs Chicken vs Veggie & Supreme**  
+  Classic pizzas dominate in quantity, Chicken pizzas dominate in revenue, while Veggie & Supreme show moderate sales.  
+  → Reflects a well-rounded menu strategy catering to both mass appeal and premium buyers.  
 
-**•	Most Expensive Pizza:** The Greek Pizza at 35.95 is the priciest, useful for premium pricing strategies or upselling opportunities.
+- **Most Expensive Pizza – Greek Pizza (35.95)**  
+  The Greek Pizza is the priciest item on the menu.  
+  → Useful for premium positioning and upselling strategies.  
 
 ---
 ## Repository Structure
