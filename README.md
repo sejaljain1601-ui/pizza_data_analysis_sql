@@ -32,7 +32,8 @@ The project contains four main tables:
 Relationships:
 •	Each order can have multiple pizzas.
 •	Each pizza can appear in multiple orders.
-________________________________________
+
+---
 ## SQL Scripts
 The repository includes three main SQL scripts:
 
@@ -41,7 +42,8 @@ The repository includes three main SQL scripts:
 •	02_create_tables.sql – Creates all tables (Orders, Pizza_Types, Pizzas, Order_Details) with primary and foreign keys
 
 •	03_queries.sql – Contains all 10 analysis queries 
-________________________________________
+
+---
 ## Key Queries & Analysis
 The repository includes the following queries with explanations:
 1. List all orders that include an 'XL' pizza - Retrieves order IDs for all orders containing XL pizzas.
@@ -62,8 +64,9 @@ The repository includes the following queries with explanations:
    
 9. Percentage contribution of each pizza type to total revenue - Shows how much each pizza type contributes to overall sales.
   
-10. Most expensive pizza - Retrieves the name and price of the costliest pizza. 
-________________________________________
+10. Most expensive pizza - Retrieves the name and price of the costliest pizza.
+    
+---
 ## Insights & Findings
 •	Peak Hours: Highest pizza sales occur during 12 PM–1 PM (lunch) and 5 PM–6 PM (dinner). Morning (9–10 AM) and late night (10–11 PM) have minimal sales.
 
@@ -75,7 +78,8 @@ overall bring in the most revenue per category.
 •	Balanced Performance Across Categories: Classic pizzas dominate in quantity, Chicken pizzas dominate in revenue, and Supreme & Veggie pizzas maintain moderate sales, showing a well-rounded menu.
 
 •	Most Expensive Pizza: The Greek Pizza at 35.95 is the priciest, useful for premium pricing strategies or upselling opportunities.
-________________________________________
+
+---
 ## Repository Structure
 Pizza_Data_Analysis_SQL/
 
@@ -86,7 +90,8 @@ Pizza_Data_Analysis_SQL/
 ├── queries.sql               # All analysis queries
 
 └── README.md                 # Project overview, schema, queries, insights
-________________________________________
+
+---
 **AUTHOR**
 
 Sejal Jain – SQL & Data Analysis Enthusiast
