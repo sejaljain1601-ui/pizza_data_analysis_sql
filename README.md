@@ -69,13 +69,13 @@ The repository includes the following queries with explanations:
 ## Repository Structure
 Pizza_Data_Analysis_SQL/
 
-├── create_database.sql       # Script to create the database
+├── `create_database.sql`       # Script to create the database
 
-├── create_tables.sql         # Script to create all tables with PKs & FKs
+├── `create_tables.sql`         # Script to create all tables with PKs & FKs
 
-├── queries.sql               # All analysis queries
+├── `queries.sql`               # All analysis queries
 
-└── README.md                 # Project overview, schema, queries, insights
+└── `README.md`                 # Project overview, schema, queries, insights
 
 ---
 **AUTHOR**
