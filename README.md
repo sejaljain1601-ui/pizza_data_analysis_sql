@@ -96,7 +96,7 @@ Pizza_Data_Analysis_SQL/
 
 Sejal Jain – SQL & Data Analysis Enthusiast
 
-•	GitHub: https://github.com/sejaljain1601-ui
+•	GitHub: [SejalJain1601-ui] (https://github.com/sejaljain1601-ui)
 
-•	LinkedIn: www.linkedin.com/in/sejal-jain-lko
+•	LinkedIn: [Sejal Jain] (www.linkedin.com/in/sejal-jain-lko)
 
