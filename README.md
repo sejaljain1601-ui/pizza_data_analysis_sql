@@ -34,6 +34,7 @@ Relationships:
 ________________________________________
 ### SQL Scripts
 The repository includes three main SQL scripts:
+
 •	01_create_database.sql – Creates the Pizza Mania database
 
 •	02_create_tables.sql – Creates all tables (Orders, Pizza_Types, Pizzas, Order_Details) with primary and foreign keys
