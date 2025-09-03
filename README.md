@@ -7,7 +7,7 @@ This project is a relational database analysis of Pizza Mania’s data. The main
 ## Database Schema
 The project contains four main tables:
 
-**1. Orders**
+**Orders**
 •	order_id (Primary Key)
 •	order_date
 •	order_time
