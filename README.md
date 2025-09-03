@@ -1,5 +1,6 @@
-**Pizza Mania SQL Project**
-# Project Overview
+# Pizza Mania SQL Project
+
+## Project Overview
 This project is a relational database analysis of Pizza Mania’s data. The main goal is to analyze pizza orders, revenue trends, and popular pizza categories and sizes using SQL. It demonstrates database design, query writing, and basic data analysis techniques.
 
 ---
