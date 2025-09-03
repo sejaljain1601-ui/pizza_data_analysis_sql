@@ -50,7 +50,7 @@ The repository includes the following queries with explanations:
 
 4. Hourly breakdown of total pizzas sold - Summarizes pizza sales by hour to identify peak sales times.
 
-5.Daily revenue per order_date - Calculates total revenue generated each day.
+5. Daily revenue per order_date - Calculates total revenue generated each day.
 
 6. Average number of pizzas ordered per day - Computes the mean daily pizza sales.
 
@@ -64,20 +64,32 @@ The repository includes the following queries with explanations:
 ________________________________________
 ##### Insights & Findings
 •	Peak Hours: Highest pizza sales occur during 12 PM–1 PM (lunch) and 5 PM–6 PM (dinner). Morning (9–10 AM) and late night (10–11 PM) have minimal sales.
+
 •	Top-Selling Pizza by Quantity: Classic pizza leads in total units sold (14,888), followed by Supreme, Veggie, and Chicken categories.
-•	Top Revenue-Generating Pizzas: Thai Chicken Pizza generates the highest revenue (43,434.25), followed closely by Barbecue and California Chicken Pizzas. Chicken pizzas overall bring in the most revenue per category.
+
+•	Top Revenue-Generating Pizzas: Thai Chicken Pizza generates the highest revenue (43,434.25), followed closely by Barbecue and California Chicken Pizzas. Chicken pizzas 
+overall bring in the most revenue per category.
+
 •	Balanced Performance Across Categories: Classic pizzas dominate in quantity, Chicken pizzas dominate in revenue, and Supreme & Veggie pizzas maintain moderate sales, showing a well-rounded menu.
+
 •	Most Expensive Pizza: The Greek Pizza at 35.95 is the priciest, useful for premium pricing strategies or upselling opportunities.
 ________________________________________
 ###### Repository Structure
 Pizza_Data_Analysis_SQL/
+
 ├── create_database.sql       # Script to create the database
+
 ├── create_tables.sql         # Script to create all tables with PKs & FKs
+
 ├── queries.sql               # All analysis queries
+
 └── README.md                 # Project overview, schema, queries, insights
 ________________________________________
 **AUTHOR**
+
 Sejal Jain – SQL & Data Analysis Enthusiast
+
 •	GitHub: https://github.com/sejaljain1601-ui
+
 •	LinkedIn: www.linkedin.com/in/sejal-jain-lko
 
